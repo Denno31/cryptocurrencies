@@ -1,2 +1,0 @@
-# cryptocurrencies
-Created with CodeSandbox
